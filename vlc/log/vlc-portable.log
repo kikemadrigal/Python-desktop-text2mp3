@@ -1,0 +1,770 @@
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Sun, 19 Feb 2023 23:32:38 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: 
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Sun, 19 Feb 2023 23:32:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000296126c3ad0] main libvlc warning: error while loading the configuration file
+[00000296126c3ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000029612b84e30] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+[0000029612b85130] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Sun, 19 Feb 2023 23:33:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:33:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Sun, 19 Feb 2023 23:33:40 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Sun, 19 Feb 2023 23:33:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000002b5ee983ad0] main libvlc warning: error while loading the configuration file
+[000002b5ee983ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000002b5ef0b4bd0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Sun, 19 Feb 2023 23:34:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Sun, 19 Feb 2023 23:34:24 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): ..\..\text.mp3
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Sun, 19 Feb 2023 23:34:24 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe ..\..\text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000001b9a7b43ad0] main libvlc warning: error while loading the configuration file
+[000001b9a7b43ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Sun, 19 Feb 2023 23:34:34 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Sun, 19 Feb 2023 23:34:36 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): ..\..\text.mp3
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Sun, 19 Feb 2023 23:34:36 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe ..\..\text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000178bd673ad0] main libvlc warning: error while loading the configuration file
+[00000178bd673ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Sun, 19 Feb 2023 23:34:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 00:47:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 00:47:15 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): ..\..\text.mp3
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 00:47:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe ..\..\text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000001cd63623ad0] main libvlc warning: error while loading the configuration file
+[000001cd63623ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Mon, 20 Feb 2023 00:47:18 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 00:50:05 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 00:50:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): ..\..\text.mp3
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 00:50:06 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe ..\..\text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000181fdc13ad0] main libvlc warning: error while loading the configuration file
+[00000181fdc13ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Mon, 20 Feb 2023 00:50:08 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 00:56:43 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 00:56:43 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000207857e3ae0] main libvlc warning: error while loading the configuration file
+[00000207857e3ae0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000020785dd5be0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 00:57:33 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 00:57:42 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 00:57:42 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000001c15d393ae0] main libvlc warning: error while loading the configuration file
+[000001c15d393ae0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000001c15d906060] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+[000001c15d905be0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+[000001c15d906060] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 00:58:08 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 00:59:09 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 00:59:09 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000210f4463ae0] main libvlc warning: error while loading the configuration file
+[00000210f4463ae0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[00000210f4856960] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 00:59:21 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:01:38 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:01:38 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000222e43a3ae0] main libvlc warning: error while loading the configuration file
+[00000222e43a3ae0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[00000222e6315be0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+[00000222e6315be0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:01:46 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:07:05 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): -h
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:07:05 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe -h --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:07:31 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): -h
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:07:31 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe -h --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:07:48 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): 
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:07:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:08:11 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:08:12 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:08:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[0000016486973ad0] main libvlc warning: error while loading the configuration file
+[0000016486973ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000016486f92b90] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:09:29 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+[000001dc4c1a3ad0] main libvlc warning: error while loading the configuration file
+[000001dc4c1a3ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000001dc4c711b40] main playlist: playlist is empty
+Mon, 20 Feb 2023 01:09:30 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:07:21 CET FTL ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:192 > Command failed error="exit status 3221225786"
+Mon, 20 Feb 2023 01:09:31 CET FTL ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:192 > Command failed error="exit status 3221225786"
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:09:37 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:09:37 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:09:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:09:51 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:09:51 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[0000023eb6123ad0] main libvlc warning: error while loading the configuration file
+[0000023eb6123ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000023eb66456f0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:11:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+[000001d44cb13ad0] main libvlc warning: error while loading the configuration file
+[000001d44cb13ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000001d44d23c390] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:12:08 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:12:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:12:48 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:12:48 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[0000019288d731c0] main libvlc warning: error while loading the configuration file
+[0000019288d731c0] main libvlc: Ejecutar vlc con la interfaz predeterminada. Use «cvlc» para usar vlc sin interfaz.
+[00000192894103d0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:13:44 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:13:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:13:50 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:13:50 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000002739f153180] main libvlc warning: error while loading the configuration file
+[000002739f153180] main libvlc: Ejecutar vlc con la interfaz predeterminada. Use «cvlc» para usar vlc sin interfaz.
+[000002739f67f6a0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:13:53 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:13:58 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:13:59 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:13:59 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000258980b3180] main libvlc warning: error while loading the configuration file
+[00000258980b3180] main libvlc: Ejecutar vlc con la interfaz predeterminada. Use «cvlc» para usar vlc sin interfaz.
+[000002589a0bf0a0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:14:01 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:14:16 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:14:16 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[0000013e2bdc37f0] main libvlc warning: error while loading the configuration file
+[0000013e2bdc37f0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000013e2c403a50] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:15:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:15:40 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:15:41 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:15:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000001a1f8143ad0] main libvlc warning: error while loading the configuration file
+[000001a1f8143ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000001a1f86c4fb0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:16:02 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:16:03 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:16:03 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000002d9b31a3ad0] main libvlc warning: error while loading the configuration file
+[000002d9b31a3ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000002d9b51d44b0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:16:12 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:16:13 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:16:14 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:16:14 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[0000014fcd6d3ad0] main libvlc warning: error while loading the configuration file
+[0000014fcd6d3ad0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000014fcf961500] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:16:35 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Mon, 20 Feb 2023 01:18:39 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text to speed\\vlc\\reg\\VLC.reg not found"
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): -vvv text.mp3
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text to speed\vlc\app
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text to speed\vlc\data
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Mon, 20 Feb 2023 01:18:39 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text to speed\vlc\app\vlc.exe -vvv text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text to speed\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[000001d862623af0] main libvlc warning: error while loading the configuration file
+[000001d862623af0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000001d862ae4480] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text to speed\vlc\app\text.mp3 (No such file or directory)
+Mon, 20 Feb 2023 01:19:41 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:118 > --------
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:119 > Operating System: Windows 10.0.19045
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:120 > Starting VLC 3.0.16-11 (portapps 3.3.1)...
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:121 > Release date: 2021/08/23 00:12:24
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/vlc-portable)
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:123 > Root path: C:\Users\casa\Desktop\Text2mp3\vlc
+Tue, 21 Feb 2023 20:07:47 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+app:
+  cleanup: false
+  verbose: "1"
+
+Tue, 21 Feb 2023 20:07:49 CET WRN D:/a/vlc-portable/vlc-portable/main.go:86 > Cannot import registry key error="reg file C:\\Users\\casa\\Desktop\\Text2mp3\\vlc\\reg\\VLC.reg not found"
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:167 > Process: C:\Users\casa\Desktop\Text2mp3\vlc\app\vlc.exe
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:168 > Args (config file): 
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:169 > Args (cmd line): text.mp3
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:170 > Args (hardcoded): --vlm-conf=C:\Users\casa\Desktop\Text2mp3\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text2mp3\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:171 > Working dir: C:\Users\casa\Desktop\Text2mp3\vlc\app
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:172 > App path: C:\Users\casa\Desktop\Text2mp3\vlc\app
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:173 > Data path: C:\Users\casa\Desktop\Text2mp3\vlc\data
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:174 > Previous path: C:\Users\casa\Desktop\Text to speed\vlc
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:180 > Launching VLC
+Tue, 21 Feb 2023 20:07:49 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:190 > Exec C:\Users\casa\Desktop\Text2mp3\vlc\app\vlc.exe text.mp3 --vlm-conf=C:\Users\casa\Desktop\Text2mp3\vlc\data\vlcrc --config=C:\Users\casa\Desktop\Text2mp3\vlc\data\vlcrc --no-plugins-cache --no-qt-updates-notif
+[00000287c8fb6d60] main vlm daemon error: Load error on line 1: ﻿###: Unknown VLM command
+[00000287c6f38300] main libvlc warning: error while loading the configuration file
+[00000287c6f38300] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[00000287c90675e0] filesystem stream error: cannot open file C:\Users\casa\Desktop\Text2mp3\vlc\app\text.mp3 (No such file or directory)
+Tue, 21 Feb 2023 20:08:15 CET INF ..\..\..\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.3.1\portapps.go:211 > Closing VLC

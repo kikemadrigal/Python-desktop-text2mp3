@@ -1,0 +1,3 @@
+[console_scripts]
+text2mp3 = text2mp3.text2mp3:convert
+

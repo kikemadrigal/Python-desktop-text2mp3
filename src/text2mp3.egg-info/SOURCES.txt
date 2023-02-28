@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/text2mp3.egg-info/PKG-INFO
+src/text2mp3.egg-info/SOURCES.txt
+src/text2mp3.egg-info/dependency_links.txt
+src/text2mp3.egg-info/entry_points.txt
+src/text2mp3.egg-info/requires.txt
+src/text2mp3.egg-info/top_level.txt
